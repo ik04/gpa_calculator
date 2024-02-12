@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-eyueu^tr@k+aboe!6gpd%#*+=ur!8b4xh$k-vglo3jkl$fc**v
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ["gpa-calculator-h913.onrender.comz"]
+ALLOWED_HOSTS = ['gpa-calculator-h913.onrender.com', 'localhost', '127.0.0.1']
 
 
 # Application definition
